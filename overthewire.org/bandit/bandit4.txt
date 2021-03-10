@@ -1,0 +1,11 @@
+again i was about to overcomplicate things in this level !
+as you can see , there are a bunch of files names -file00 ... -file09
+
+first i thought maybe i need to merge these files together to make a readable file but it didn't work.
+finally i told myself "maybe it's just about finding the right txt , so i did this : cat ./-file0*
+* is a wildcard which means 0 or more of ANY character.
+so that command means that print the contents of ANY file that it's name starts whith -file0.
+
+and here we go ! there exists a readable string in file07.
+
+MISSION ACCOMPLISHED !!

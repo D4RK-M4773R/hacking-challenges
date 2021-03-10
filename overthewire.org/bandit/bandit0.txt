@@ -1,5 +1,5 @@
 i so overcomplecated this level.
-when you log in via ssh , you can see the content with ls command.
+when you log in via ssh (ssh -p 2220 bandit0@bandit.labs.overthewire.org) , you can see the content with ls command.
 there you will see a readme file and with cat command , you can see the contents.
 
 well there is a 32 character string .

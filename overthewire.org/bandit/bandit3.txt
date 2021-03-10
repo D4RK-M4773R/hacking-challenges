@@ -1,0 +1,5 @@
+sounds like there is no files :(
+but wait ! what if the file is HIDDEN ?
+easy way to find out is to use ls -la command and YES !
+there is a hidden file named .hidden !
+just use cat .hidden !!!

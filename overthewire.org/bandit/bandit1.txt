@@ -1,0 +1,4 @@
+the password for the nect level is stored in a file named -
+all you need to do is to use cat ./- to vierw the contents and copy it to clipboard in order to use it to login to the next level .
+
+and DONE ! :)

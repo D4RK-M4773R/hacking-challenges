@@ -1,0 +1,5 @@
+well , this time the file containing our password has spaces in it's name .
+but then again just let the os do the trick !
+just type 'cat spa' and press TAB.
+
+ and ... DONE !!  
