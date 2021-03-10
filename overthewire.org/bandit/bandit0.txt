@@ -1,0 +1,10 @@
+i so overcomplecated this level.
+when you log in via ssh , you can see the content with ls command.
+there you will see a readme file and with cat command , you can see the contents.
+
+well there is a 32 character string .
+i first thought it's kind of hash or something since the caracters are all random 
+but after visiting various websites and failing , suddenly i thought "what if this string is the password itself ??? "
+
+well yeah .
+that is the password XD
