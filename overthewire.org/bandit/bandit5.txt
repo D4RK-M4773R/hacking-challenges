@@ -1,0 +1,8 @@
+in order to solve this level , i used both du and grep commands to filter the many files and finding the actual file containing the password.
+du (stands for Disk Usge) is a standard Unix program used to estimate file space usage—space used under a particular directory or files on a file system.
+you can use --help to see the manual.
+i used du -a -b to see all the file and their size in one output.
+and since we know the file size must be 1033 bytes , i decided to use grep command this way :
+du -a -b | grep 1033
+
+and the output reveals the path to the file we are looking for !
